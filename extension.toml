@@ -1,0 +1,7 @@
+id = "duck-story"
+name = "Duck Story Theme"
+description = "A simple warm theme with bright colors for comfortable work."
+version = "1.0.0"
+schema_version = 1
+authors = ["Andrey Zakharov"]
+repository = "https://github.com/andzhr/duck-story-zed-theme"
